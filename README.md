@@ -1,4 +1,6 @@
 # Python-Turtle-Snowflake
+
+All the turtle commands can be found here: https://docs.python.org/3/library/turtle.html
 Xmas task in Python using turtle
 Tasks:
 1) Draw a snowflake by tracing a shape
