@@ -1,5 +1,5 @@
 
-import * from turtle
+import turtle
 
 t = turtle.Turtle()
 
@@ -15,5 +15,6 @@ def square (size) :
 
 t.color ('red')
 
-t.square (100)
+square (100)
 
+input ("Enter return to continue")
