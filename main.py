@@ -1,7 +1,7 @@
 
 import * from turtle
 
-//t = turtle.Turtle()
+t = turtle.Turtle()
 
 # Task One
 #
@@ -9,11 +9,11 @@ import * from turtle
 #
 
 def square (size) :
-  forward (size)
-  left (90)
+  t.forward (size)
+  t.left (90)
   
 
-color ('red')
+t.color ('red')
 
-square (100)
+t.square (100)
 
